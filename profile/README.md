@@ -9,20 +9,20 @@ that empowers developers and communities worldwide. By contributing to
 the open-source ecosystem, we aim to foster collaboration, inspire
 creativity, and make technology available for everyone.
 
-------------------------------------------------------------------------
+---
 
 ### 🌍 Mission
 
--   Make technology accessible for everyone
--   Empower developers worldwide
--   Foster collaboration through open-source projects
+- Make technology accessible for everyone
+- Empower developers worldwide
+- Foster collaboration through open-source projects
 
 ### 📌 Featured Projects
 
--   **Project A**: A lightweight API framework for modern applications.
--   **Project B**: Developer tools to accelerate backend and cloud
-    workflows.
--   **Project C**: A simple yet powerful automation utility.
+- **Project A**: A lightweight API framework for modern applications.
+- **Project B**: Developer tools to accelerate backend and cloud
+  workflows.
+- **Project C**: A simple yet powerful automation utility.
 
 ### 🤝 Contribute
 
@@ -35,7 +35,7 @@ Together, we can build something great.
 For collaboration, partnerships, or inquiries, please reach out via our
 official channels or connect with us on LinkedIn.
 
-------------------------------------------------------------------------
+---
 
 ⭐ If you like our work, consider giving our repositories a star to
 support the community!
