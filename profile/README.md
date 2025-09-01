@@ -30,10 +30,13 @@ We welcome contributions from developers of all levels. Feel free to
 explore our repositories, open issues, or submit pull requests.
 Together, we can build something great.
 
-### 📫 Contact
+## 📫 Contact
 
-For collaboration, partnerships, or inquiries, please reach out via our
-official channels or connect with us on LinkedIn.
+For collaborations, partnerships, or inquiries:
+
+- 🌐 Website: [Velura](https://velura-open-source-r36i.vercel.app)
+- 💼 LinkedIn: [LinkedIn Page](https://www.linkedin.com/company/velura-open-source)
+- 📧 Email: AliMoradi0Business@gmail.com
 
 ---
 
